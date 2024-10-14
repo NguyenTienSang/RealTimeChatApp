@@ -1,0 +1,6 @@
+ChatAppClient/node_modules/
+*.docx
+.vs/
+# Ignore all bin and obj folders in the project
+**/bin/
+**/obj/
